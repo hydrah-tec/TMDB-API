@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+}
+:root {
+  --primary_color: #141414;
+  --secondary_color: #f47521;
+  --text_color: #e5e5e5;
+}
+
+body {
+  background-color: #141414;
+  color: var(--text_color);
+}
